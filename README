@@ -1,0 +1,16 @@
+Python tool for http://api.face.com
+
+For now i've just copied API from php version:
+ * http://api.face.com/lib/FaceRestClient.php
+
+This is initial release, not tested so long, and methods/params could/should be
+change to be tidy.
+
+
+Info from http://developers.face.com/docs/:
+ * face.com provides face detection and recognition technology that you can integrate with your own application.
+ * face.com services are offered for FREE with rate limits
+ * You can tag and recognize users from Facebook or Twitter. Alternatively, you can train our index with your own set of users in a private namespace
+ * Saving Facebook and Twitter tags improves recognition for you and others, and it qualifies you for better rate limits.
+ * We process photos from anywhere, so you can mix and match photo sources with user IDs, which could enable you to, say, recognize Facebook users in Flickr photos...
+
